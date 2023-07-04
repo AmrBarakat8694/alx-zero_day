@@ -1,1 +1,1 @@
-My first readme
+Glad to be in alx course
